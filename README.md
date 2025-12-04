@@ -13,3 +13,5 @@ Default config:
 nametag: "%player_displayname%"
 chatmessage: "[%player_level%] <%player_nametag%> %message%" # The message in the chat
 ```
+
+❗This plugin requires [PlaceholderAPI](https://github.com/PowerNukkitX-Bundle/PlaceholderAPI)❗
