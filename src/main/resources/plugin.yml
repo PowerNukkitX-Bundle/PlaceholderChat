@@ -1,0 +1,8 @@
+name: PlaceholderChat
+version: 1.0.0
+api: 2.0.0
+authors: [Buddelbubi]
+description: Modify the chat messages using PlaceholderAPI
+main: org.powernukkitx.placeholderchat.PlaceholderChat
+depend:
+  - PlaceholderAPI
